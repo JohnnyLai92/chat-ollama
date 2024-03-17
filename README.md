@@ -1,5 +1,5 @@
 # Chat Ollama
-## modify by Johnny 0317 15:30
+## modify by Johnny 0317 15:40
 
 This is a Nuxt 3 + Ollama web application. It's an example of Ollama Javascript library.
 
